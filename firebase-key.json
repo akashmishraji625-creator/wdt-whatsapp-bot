@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fit-club-studio-9e28d",
+  "private_key_id": "a7cb3ccf6e06a871410fca74ee9eaee31c129099",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC42XS3rgatAE7D\nh1BdsdvOikv0+hzF9Fus2p+TBnKiRk0nYqCgq+KGpfDSOHNSyKFTDVXN05frVx3C\nIMo+PrzStu4OKtcFf6ggLE5n1h8MoVMdKwMhjMDZs5OvmZGbEwhxm8pRuni8AqyN\n5Y/I6TRd06yu3KFsuHfiSQrFpiY8PmkFM/LDkk1d7znykL8Ir1VBRbuCcNgThPwK\np7ReAF4HqbdP8wJlRO8K0R9kHhH1gN/V8rfjcyJvs7lN01UnEejJHAKM5/ftauJD\n+SKJXtaM70cLLZoGuw+XiERCKptdgjs4zhn9d6GHezVYvBD5hdOunBRp0bmBYxv9\nuPqQgXRnAgMBAAECggEAFopRvLooTz073YTpDFvNUVy00W0USCE5cpUAI2YEYXxQ\nGS7iJmV/TGr8uC2xBlW3slBsd5pHKqfnVY45CykMTmeHFMwthxqfbjjo4KmQBLLB\nV0uw6Izo0UMgDagcxLun6m6UV6303fw3fWASTe39+DkBFBuMRZ0i5UGB4kMV43+F\nknaMrHqK968o2dtI74S40UX1Fk+hn7eRf8Yk3Gn1lSroc3KBlxKhD28PvFRuxvnI\nMRg+Q0MZgnCI2UmP4cHTirYlsOWL/B5MmWWwZbBhP78MoI2nfYx/nnO+qhKyussG\nsStlm4f1zRuhsPhU9C3+fpJnvEWRmgIUMCk2LKQdjQKBgQDo+GenzzTlB872BkSg\nWowEhn2/y7I5Rhogqs7nmtzFOtKFjqZ1NZf3/IdmNt7p7ieAP9poxaPOt8KRjqP2\nWlDpDOFEvfeGTi7/IWkC9L8TUikydfeNoTf6RYOmwVK3ZBCGLt0NWvfgCPmMUvsc\nlX3aDCadmjQFgTZmcBDnZoOGOwKBgQDLH0s1DvI5MOoYOmRYH6EmehRjj0FzDHx8\nGB46s4MfWuVVZcd3BCJlx4lzGxP4ltf7iC2h3DVlEE52D0n8NHEAGjovGGbUVGCX\nXkPjkZaF1RJ4OLAUp6FyOH3DpUlUUWreTvTBpThC4KD+928Lyo7I6KHzFNTzK1nK\ncqeyGwnrxQKBgCcpwvsRuRmbQ25WRWkTb6A/H5qDWpWINFIzhI6omN5K8iLjhRYF\nCWP1vqkvJi/7CgbkNQoR12SjvYCMkwGR0zIqKSBOMvMP55SaADYwAIL199j0vcXA\nSVG4J9Z7fzU3DBQSgrSBC1RNDe5J8M6wTrS+ACvURVR7kTKNOjo8IHYLAoGBAJBC\nZHaFa/DEVa3pYrTXmesqzuo6pwAfwRWdR3LnZVvSgYgaJgTYEdn5UhxHAfMOpsyE\n1evb6qwhXagpiaEuWYb6GZKzIOzyFDvM/ihUkPPx9REfKacxus7VYjSeYisZO+4x\nY1FYl1GgGZebgel87dWwqrxqcidWBYprzcAHxg8FAoGAHDfKZH+tRRmF0HkXgfys\nsZi/g9XvfSkyvKAeJ9JmjK/C6Q35nRl+vAiVyvXPrhf47RqiORidGkf6AdBrbHDp\n7pJ9lRRsyZogS7VcsgS4gixEKOEzLl2TnMibadkjKhZGR6rZktHXARsHhKzCIQvQ\n69aB9uj4Bv466NgBsaE3p6k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@fit-club-studio-9e28d.iam.gserviceaccount.com",
+  "client_id": "109650151045901128119",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40fit-club-studio-9e28d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
